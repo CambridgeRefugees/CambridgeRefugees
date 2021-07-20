@@ -2,11 +2,12 @@
 layout: post
 title:  UK Borders Bill campaign
 date:   2021-07-14
-category: newslist
-type: news
+category: campaigns
 ---
 
 The UK Government's Nationality and Borders Bill is due for its second reading next week, and is essentially the same as the [New Plan for Immigration]({% link npfi-2021.md %}). It is being rushed through before the results of the consultation are known, and before all the obvious flaws that were pointed out by expert groups have been made public or indeed addressed. The advice we gave about the NPfI still stands: it is illegal and immoral.
+
+Please sign [this petition](https://action.freedomfromtorture.org/tell-priti-patel-refugees-welcome-petition) from Freedom From Torture.
 
 Here are some resources specifically about this Bill that you might like to read.
 
