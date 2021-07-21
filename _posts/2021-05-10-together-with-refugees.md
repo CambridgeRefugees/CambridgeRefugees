@@ -6,7 +6,7 @@ category: newslist
 type: news
 ---
 
-![The Together With Refugees logo](/images/2021-05-10-together-with-refugees.png){: .float-right }
+![The Together With Refugees logo](/images/2021-07-14-together-with-refugees.png){: .float-right }
 
 ## Together With Refugees
 
