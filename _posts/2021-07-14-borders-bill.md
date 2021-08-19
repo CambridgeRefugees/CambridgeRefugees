@@ -5,7 +5,7 @@ date:   2021-07-14
 category: campaigns
 ---
 
-The UK Government's Nationality and Borders Bill is due for its second reading next week, and is essentially the same as the [New Plan for Immigration]({% link npfi-2021.md %}). It is being rushed through before the results of the consultation are known, and before all the obvious flaws that were pointed out by expert groups have been made public or indeed addressed. The advice we gave about the NPfI still stands: it is illegal and immoral.
+The UK Government's Nationality and Borders Bill has passed its Second Reading by 100 votes and is now in the Committe Stage. It is still essentially the same as the [New Plan for Immigration]({% link npfi-2021.md %}) and is being rushed through before the results of the consultation are known, and before all the obvious flaws that were pointed out by expert groups have been made public or indeed addressed. The advice we gave about the NPfI still stands: it is illegal and immoral.
 
 ![The Together With Refugees logo](/images/2021-07-14-together-with-refugees.png){: .float-right }
 
