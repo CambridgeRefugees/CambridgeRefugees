@@ -2,7 +2,7 @@
 layout: home
 ---
 
-*Urgent: the UK Government's Borders Bill is now in Committee Stage, and is essentially the same as the [New Plan for Immigration]({% link npfi-2021.md %}). It is still being rushed through and the advice we gave about the NPfI still stands: it is illegal and immoral. Please [write to your MP pointing this out]({% post_url 2021-07-14-borders-bill %}).*
+*We stand ready to support Afghan refugees and will work with the local councils to facilitate their arrival.*
 
 Cambridge has always been ready and willing to welcome refugees in times of crisis, and there have rarely been more people fleeing persecution and war. Offering sanctuary is a proud Cambridge tradition. We’re good at it, we always have been.
 
