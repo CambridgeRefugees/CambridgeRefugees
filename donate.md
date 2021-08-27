@@ -31,12 +31,6 @@ If you pay Income Tax at the higher or additional rate and want to receive the a
 
 ### Donate items
 
-Refugee families in Cambridge are often in need of items to support them in setting up their new lives. Please see the list of items we are currently looking for below.
+We operate on a request-only basis for our existing resettled families.
 
-We are only able to accept items advertised on the list. We would be grateful if you could please ensure that all items are of good quality and are ready to be used – no torn clothing or broken toys, household items should be clean and clothing should be washed and dried.
-
-When you are ready to donate, please [email us at our donations address](mailto:donations@cambridgerefugees.org) to arrange a drop-off.
-
-- Pram
-- Two microwaves
-- Warm blankets
+We are therefore asking everyone coming forward with kind offers of support to either hold on to their donations for the time being (as CRRC do not have storage) or consider giving them to [Emmaus](https://emmaus.org.uk/cambridge/), a worthwhile charity that CRRC has a working relationship with to provide affordable household items to vulnerable people. 
