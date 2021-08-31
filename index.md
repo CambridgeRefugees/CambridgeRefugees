@@ -2,7 +2,7 @@
 layout: home
 ---
 
-*[We stand ready to support Afghan refugees]({% post_url 2021-08-27-afghanistan %}) and will work with the local councils to facilitate their arrival.*
+*[We stand ready to support Afghan refugees]({% post_url 2021-08-27-afghanistan %}) and will work with the local councils to facilitate their arrival. **Please do not collect or send donations to us without prior arrangement.** We're working to establish people's needs and will post those when we have them. As always, thank you for your efforts but please help us focus on what's most useful and important.*
 
 Cambridge has always been ready and willing to welcome refugees in times of crisis, and there have rarely been more people fleeing persecution and war. Offering sanctuary is a proud Cambridge tradition. We’re good at it, we always have been.
 

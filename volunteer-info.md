@@ -28,7 +28,7 @@ CRRC has a Board of Trustees that oversees our operations, but practical respons
 
 ## Policies and procedures
 
-CRRC has a number of policies and procedures. As volunteers, we all agree that we will abide by them. Since we work with vulnerable people, safeguarding is particularly important. If you have any concerns regarding safeguarding, please [contact our safeguarding officer (Ann)](admin@cambridgerefugees.org).
+CRRC has a number of policies and procedures. As volunteers, we all agree that we will abide by them. Since we work with vulnerable people, safeguarding is particularly important. If you have any concerns regarding safeguarding, please [contact our safeguarding officer (Ann)](safeguarding@cambridgerefugees.org).
 
 Here are the latest versions of CRRC policies.
 
@@ -43,6 +43,8 @@ Please read the full policy [here](https://drive.google.com/file/d/1Ytrntmeco5Di
 ### Safeguarding Policy
 We define safeguarding as appropriate action to protect children and vulnerable adults from abuse, harm or neglect. All those volunteering for CRRC must read this policy before they have contact with those we are assisting and must adhere to the policy and procedures for reporting suspected or actual abuse.
 Please read the full policy [here](https://drive.google.com/file/d/1DI_t0rljBSDsZl_W6kGiltAfkVo1c6K0/view) (Google Drive).
+
+---
 
 If you have a concern or a complaint about any aspect of CRRC, please contact the Lead Contact of the group concerned in the first instance. We promise to treat you with fairness and respect. Hopefully, most problems can be resolved by informal discussion. If, however, you are not happy with this, please email [our administrator](admin@cambridgerefugees.org) and we will arrange a meeting. A final appeal can be made to the Trustees.
 
