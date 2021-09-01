@@ -11,7 +11,7 @@ hero-title: Landlords
 
 The 100 Syrian refugees that the City Council has committed to resettling in Cambridge are now all settled in housing, but we need to keep an eye out still for possible private properties in Cambridge as some of their contracts will expire. Landlords can still step forward and offer their properties to the local authority for the purpose of protecting and sheltering refugees under the Government’s vulnerable persons’ resettlement scheme. This doesn’t mean giving up the property for free; landlords will be eligible to receive local housing allowance rates. A let would need to be for a minimum of 3 years, but are ideally for longer so resettled refugees have more stability. Under this scheme the property needs a separate entrance, and to be a 3 or 4 bedroom property. (It is very unlikely that we would be able to use a 2 bedroom property.) The family will receive resettlement support from the Council and from Cambridge Refugee Resettlement Campaign, so a landlord would not have support responsibilities. Fuller details are below.
 
-If you are a landlord and would like to discuss offering your property, [email us](mailto:info@cambrigerefugees.org).
+If you are a landlord and would like to discuss offering your property, [email us](mailto:info@cambridgerefugees.org).
 
 ### Spare Room?
 
