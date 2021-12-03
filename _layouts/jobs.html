@@ -8,10 +8,10 @@
     <div class="wrapper">
       <div class="hero">
         <img src="images/hero.jpg" alt="A march supporting refugees and asylum seekers in Cambridge" />
+        <div class="news-events">
+          {{ content }}
+        </div>
       </div>
-      <div class="news-events">
-        {{ content }}
-     </div>
 
       {% for post in site.categories.jobs %}
       <article class="news">

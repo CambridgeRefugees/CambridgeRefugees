@@ -281,7 +281,9 @@
       max-height: 345px;
       overflow: hidden;
       position: relative;
-      display: block;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
 
       img {
         max-width: 100%;
@@ -290,7 +292,6 @@
     }
     .news-events {
       position: absolute;
-      top: 1.5%;
       right: 0;
       display: flex;
       flex-direction: column;
@@ -371,10 +372,6 @@
       }
     }
 
-    .side-news {
-      display: inline;
-    }
-
     .content {
       display: flex;
       flex-direction: column;
@@ -399,6 +396,10 @@
     .news {
       flex-direction: row;
       padding: 0;
+
+      &#twitter-feed {
+        min-height: 390px;
+      }
 
       .content,
       .content2 {
@@ -433,12 +434,19 @@
     }
 
     .side-news {
-      background-color: #ccc;
+      display: inline;
+      background-color: #cccccc;
       padding: 18px 0 0 10px;
 
       h4 {
         font-size: 24px;
         color: #7d7d7d;
+      }
+    }
+
+    article:nth-child(odd) {
+      .side-news {
+        background-color: #c6c6c6;
       }
     }
 
