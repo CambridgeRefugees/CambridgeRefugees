@@ -1,19 +1,19 @@
 ---
 layout: post
 title: One-to-one English tuition
-date: 2020-08-08
+date: 2022-02-06
 category: jobs
 ---
 
-Our one-to-one English tutors work with individual children in a family, helping with their homework, tutoring GCSEs in core subjects, monitoring their progress, and correcting their English. It is very rewarding, offering an opportunity to get to know the whole family and establish a valuable connection. You don't need to be a teacher, just enthusiastic and patient, and happy to have a DBS check.
+Our one-to-one English tutors work with individual children in a family, helping with their homework, tutoring GCSEs in core subjects, monitoring their progress, and improving their English. It is very rewarding, offering an opportunity to get to know the whole family and establish a valuable connection. 
 
 We ask for a minimum commitment of six months.
 
-All tutoring is currently online.
+An enhanced DBS check is necessary for this role. Further information can be found [here](https://www.gov.uk/government/organisations/disclosure-and-barring-service/about).
 
 ### We are looking for:
 
-- An excellent level of literacy, and general education.
+- A recognised ESOL qualification.
 - Patience.
 - Interest in working with children.
 - An understanding of the national curriculum expectations would be useful but not essential.
