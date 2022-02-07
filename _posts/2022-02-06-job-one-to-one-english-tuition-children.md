@@ -1,13 +1,13 @@
 ---
 layout: post
-title: One-to-one English tuition
+title: One-to-one English tuition (children)
 date: 2022-02-06
 category: jobs
 ---
 
-Our one-to-one English tutors work with individual children in a family, helping with their homework, tutoring GCSEs in core subjects, monitoring their progress, and improving their English. It is very rewarding, offering an opportunity to get to know the whole family and establish a valuable connection. 
+Our one-to-one English tutors work with individual children in a family, helping with their homework, tutoring GCSEs in core subjects, monitoring their progress, and improving their English. It is very rewarding, offering an opportunity to get to know the whole family and establish a valuable connection.
 
-We ask for a minimum commitment of six months.
+We ask for a minimum commitment of six months. A weekly commitment of an hour's teaching in the home is the norm.
 
 An enhanced DBS check is necessary for this role. Further information can be found [here](https://www.gov.uk/government/organisations/disclosure-and-barring-service/about).
 
