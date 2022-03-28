@@ -19,3 +19,7 @@ Other, non-Governmental, schemes are also being set up. However, be aware that s
 The first charity to agree to participate in the matching of hosts and refugees according to the Government Homes for Ukraine sponsorship scheme is [Reset Communities](https://www.homesforukraine.org.uk), with a web address that looks very similar to the official UK Government one but is slightly different.
 
 Also, you might like to check [Refugees At Home](https://www.refugeesathome.org), [Positive Action in Housing](https://www.paih.org/get-involved/host-a-refugee-in-your-home) and the [Sanctuary Foundation](https://sanctuaryfoundation.org.uk/).
+
+### Update 28 March
+
+The Vita Network's [Safe Refuge](https://vita-network.com/saferefuge/) page is another very useful resource for anyone considering hosting a Ukrainian family.
