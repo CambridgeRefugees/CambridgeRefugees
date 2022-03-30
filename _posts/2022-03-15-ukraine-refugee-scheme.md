@@ -23,3 +23,7 @@ Also, you might like to check [Refugees At Home](https://www.refugeesathome.org)
 ### Update 28 March
 
 The Vita Network's [Safe Refuge](https://vita-network.com/saferefuge/) page is another very useful resource for anyone considering hosting a Ukrainian family.
+
+### Update 29 March
+
+If you're wondering about sponsoring a refugee, RESET Training and Support has produced a *[Homes for Ukraine Sponsor Toolkit](https://resetuk.org/assets/Homes-for-Ukraine--Sponsor-Toolkit_v1_FINAL-1648486743.pdf)* (PDF)
