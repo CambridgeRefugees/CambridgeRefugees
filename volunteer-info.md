@@ -23,7 +23,7 @@ CRRC has a Board of Trustees that oversees our operations, but practical respons
 - Compliance: Heidi
 - Communications: Catharine
 - Family Support: Adrian
-- Activities (Holiday Programme): Katrina
+- Activities (Holiday Programme): Sharon
 - Activities (Cultural): Sue
 
 ## Policies and procedures
