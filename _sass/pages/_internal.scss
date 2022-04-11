@@ -5,8 +5,6 @@
   }
 
   .hero {
-    display: none;
-
     &:after {
       content: "";
       position: absolute;
@@ -14,14 +12,10 @@
       right: 0;
       bottom: 0;
       left: 0;
-      background: linear-gradient(
-        90deg,
-        rgba(255, 255, 255, 0.3) 32%,
-        white 58%
-      );
     }
 
     img {
+      display: none;
       width: 68%;
       position: relative;
     }
@@ -256,6 +250,14 @@
   .wrapper {
     position: relative;
 
+    .hero:after {
+      background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 0.3) 32%,
+        white 58%
+      );
+    }
+
     article {
       margin-bottom: 0;
     }
@@ -282,6 +284,7 @@
       align-items: center;
 
       img {
+        display: block;
         max-width: 100%;
         min-height: 345px;
       }
