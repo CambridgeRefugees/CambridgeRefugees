@@ -26,6 +26,10 @@ CRRC has a Board of Trustees that oversees our operations, but practical respons
 - Activities (Holiday Programme): Sharon
 - Activities (Cultural): Sue
 
+## Expenses
+
+CRRC will pay all agreed expenses for our volunteers, including transport and petrol costs. Please refer to the Family Support Team for advice on claiming any expenses you may incur.
+
 ## Policies and procedures
 
 CRRC has a number of policies and procedures. As volunteers, we all agree that we will abide by them. Since we work with vulnerable people, safeguarding is particularly important. If you have any concerns regarding safeguarding, please [contact our safeguarding officer (Ann)](safeguarding@cambridgerefugees.org).
@@ -46,6 +50,6 @@ Please read the full policy [here](https://drive.google.com/file/d/1DI_t0rljBSDs
 
 ---
 
-If you have a concern or a complaint about any aspect of CRRC, please contact the Lead Contact of the group concerned in the first instance. We promise to treat you with fairness and respect. Hopefully, most problems can be resolved by informal discussion. If, however, you are not happy with this, please email [our administrator](admin@cambridgerefugees.org) and we will arrange a meeting. A final appeal can be made to the Trustees.
+If you have a concern or a complaint about any aspect of CRRC, please contact the Lead Contact of the group concerned in the first instance. We promise to treat you with fairness and respect. Hopefully, most problems can be resolved by informal discussion. If, however, you are not happy with this, please email [our administrator](mailto:admin@cambridgerefugees.org) and we will arrange a meeting. A final appeal can be made to the Trustees.
 
 We have many volunteers who have been with us for years, with new ones joining to replace any who wish to move on, or to enable us to provide a broader scope of support. We do ask volunteers to undertake their new role for a minimum of six months as there are both monetary and time costs involved in inducting new team members. We accept that volunteers sometimes move away or find they no longer have the time to give. When that happens, we request advance notice so that we can find replacements. If you have a limited period of support to offer, please let us know when you apply. We also ask that you continue to respect the confidentiality of any information you acquired while volunteering with us. If, when you leave, you would like a reference from CRRC, please talk to your group leader.
