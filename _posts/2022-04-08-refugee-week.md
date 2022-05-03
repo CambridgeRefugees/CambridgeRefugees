@@ -16,4 +16,4 @@ On Friday 17 June, [Norfolk Schools of Sanctuary](https://www.norfolksos.co.uk) 
 >
 > Everyone is welcome to join in with A Day of Welcome! Regardless of where you are in the UK, we will provide you with ideas, resources and activities that make it easy for schools and families to participate, both in school and at home. We will also be providing additional resources specifically designed to share little-known local histories of refugee migration, for participating schools in Norfolk, Cambridgeshire, Suffolk and Essex.
 >
-> If you are interested in participating in A Day of Welcome, please sign up via [our website](https://www.norfolksos.co.uk) or [email us to find out more](mailto://info@norfolksos.org).
+> If you are interested in participating in A Day of Welcome, please sign up via [our website](https://www.norfolksos.co.uk) or [email us to find out more](mailto:info@norfolksos.org).

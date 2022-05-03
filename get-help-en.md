@@ -19,7 +19,7 @@ Our objectives are:
 
 - To advance the education of the public in general about issues relating to persons who have become displaced persons or refugees from the countries of their origin or domicile by reason of hostilities, persecution, oppression, discrimination, natural disasters or other like causes.
 
-If you are a refugee and interested in applying for any CRRC support or in joining any CRRC activity, please get in touch [via email](contactcrrc@gmail.com). We are looking forward to hearing from you!
+If you are a refugee and interested in applying for any CRRC support or in joining any CRRC activity, please get in touch [via email](mailto:contactcrrc@gmail.com). We are looking forward to hearing from you!
 
 ### Activities
 
@@ -68,4 +68,4 @@ CRRC informs faith groups, community groups, politicians and other organisations
 
 CRRC organises and co-organises fundraising events.
 
-If you are a refugee and interested in applying for any CRRC support or in joining any CRRC activity, please get in touch [via email](contactcrrc@gmail.com). We look forward to hearing from you!
+If you are a refugee and interested in applying for any CRRC support or in joining any CRRC activity, please get in touch [via email](mailto:contactcrrc@gmail.com). We look forward to hearing from you!

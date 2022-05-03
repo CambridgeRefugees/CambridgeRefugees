@@ -12,7 +12,7 @@ event_end_date:
 
 The University of Cambridge Centre of Islamic Studies is offering CRRC volunteers and their friends the opportunity, as part of Refugee Week, to take part in a workshop entitled *An Introduction to Arabic Language and Culture*.
 
-This will be a virtual event on 18 June, starting at 1pm and lasting about an hour. If you would like to attend, please register your interest [by email](admin@cambridgerefugees.org) and a zoom link will be sent out in time for the workshop.
+This will be a virtual event on 18 June, starting at 1pm and lasting about an hour. If you would like to attend, please register your interest [by email](mailto:admin@cambridgerefugees.org) and a zoom link will be sent out in time for the workshop.
 
 &nbsp;
 {: .clearfix}
