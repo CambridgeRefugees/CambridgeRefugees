@@ -11,7 +11,7 @@ hero-title: Information for volunteers
 
 Without volunteers, our campaign to help refugees would not exist. This area is for you. You’ll find information on where to go if you need advice or practical information, and links to our policies to protect you and the refugees you are supporting.
 
-CRRC has a Board of Trustees that oversees our operations, but practical responsibilities are divided into working groups. When you sign up to volunteer with us, you can choose which group you would like to join. You can change roles if you want to, or take on more than one. If you need to contact one of the working groups, please [ask our Administrator (Faye)](admin@cambridgerefugees.org) for the email address of the Lead Contact.
+CRRC has a Board of Trustees that oversees our operations, but practical responsibilities are divided into working groups. When you sign up to volunteer with us, you can choose which group you would like to join. You can change roles if you want to, or take on more than one. If you need to contact one of the working groups, please [ask our Administrator (Faye)](mailto:admin@cambridgerefugees.org) for the email address of the Lead Contact.
 
 ### Working Group Lead Contacts:
 
@@ -32,7 +32,7 @@ CRRC will pay all agreed expenses for our volunteers, including transport and pe
 
 ## Policies and procedures
 
-CRRC has a number of policies and procedures. As volunteers, we all agree that we will abide by them. Since we work with vulnerable people, safeguarding is particularly important. If you have any concerns regarding safeguarding, please [contact our safeguarding officer (Ann)](safeguarding@cambridgerefugees.org).
+CRRC has a number of policies and procedures. As volunteers, we all agree that we will abide by them. Since we work with vulnerable people, safeguarding is particularly important. If you have any concerns regarding safeguarding, please [contact our safeguarding officer (Ann)](mailto:safeguarding@cambridgerefugees.org).
 
 Here are the latest versions of CRRC policies.
 
