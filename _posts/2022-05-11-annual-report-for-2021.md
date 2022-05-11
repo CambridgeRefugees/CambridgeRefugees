@@ -6,7 +6,7 @@ category: newslist
 type: news
 ---
 
-You can now [read our full annual report for the year to June 2021](/files/2021-06-30-crrc-annual-report.pdf) (1.7 MB PDF file). Here's some of what we were up to.
+You can now [download](/files/2021-06-30-crrc-annual-report.pdf) (1.7 MB PDF file) our full annual report for the year to June 2021, [browse it online at Issuu](https://issuu.com/cambridgerefugees/docs/crrc_trustees_annual_report_finance_2020_2021_fi), or just read some of what we were up to below.
 
 ---
 
