@@ -2,9 +2,7 @@
 layout: home
 ---
 
-*CRRC is shocked and saddened at events in Ukraine. We have collated [some information on hosting Ukrainian refugees here]({% post_url 2022-04-14-homes-for-ukraine-scheme-notes %}). If you are already hosting a refugee and need our support, please get in touch.*
-
-*If you want to help, please donate to aid groups such as [Hope and Aid Direct](https://www.hopeandaiddirect.org.uk/Appeal/ukraine) or the [International Red Cross](https://donate.redcross.org.uk/appeal/ukraine-crisis-appeal). Please do not collect material aid unless you have personal connections with a group in the region which has requested this. Please also [sign the petition asking the UK Government to assist Ukrainian refugees](https://www.change.org/p/borisjohnson-and-ukhomeoffice-help-ukrainian-refugees-helpukrainianrefugees).*
+*CRRC is shocked and saddened at events in Ukraine. We have collated [some information on hosting Ukrainian refugees here]({% post_url 2022-04-14-homes-for-ukraine-scheme-notes %}) and [have a page of information and resources]({% post_url 2022-05-11-information-for-ukrainian-refugees-in-cambridge %}) for Ukrainian refugees in Cambridge, their hosts and those who want to help.*
 
 *The Nationality and Borders Bill will criminalise Ukrainians attempting to reach friends and family in the UK by irregular means, just as it will Afghans. [Write to your MP](https://www.writetothem.com/) urging them to fight this Anti-Refugee Bill.*
 

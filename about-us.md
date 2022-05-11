@@ -13,12 +13,11 @@ We provide a wide range of practical support to resettled refugee families and w
 
 - seeking out private landlords willing to accept Council rent rates;
 - sourcing items of furniture, household equipment and bicycles according to identified needs;
-- helping new families to settle in by tidying gardens and redecorating homes;
+- helping new families to settle in by tidying gardens and equipping homes;
 - chaperoning beneficiaries at medical appointments and offering a doula service for expectant mothers;
 - providing one-to-one help with homework for school-age children;
 - running English for Speakers of Other Languages classes with childcare for the benefit of mothers with young children;
 - organising programmes of outings and activities during the school holidays;
-- running an after-school Code Club for refugee children;
 - partnering with individuals and groups able to assist with Arabic translation and learning;
 - getting the families together once a month for a social event where they can meet each other and our volunteers;
 - arranging counselling and advice for beneficiaries;
