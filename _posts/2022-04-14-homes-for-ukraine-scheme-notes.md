@@ -19,3 +19,7 @@ Please note that, while all these charities have been recommended to us from a t
 7. [Welcome Churches](https://welcomechurches.org/ukraine-welcome/) (for Christian groups or churches wanting to welcome a family)
 8. [Opora](https://www.opora.uk/opora-uk) (a new charity which has set up a matching platform)
 9. [Cambridge4Ukraine](https://www.cambridge4ukraine.uk/shelter)
+
+If you are a host and experiencing problems with the visa process, please contact [Cambridge4Ukraine](https://www.cambridge4ukraine.uk/shelter), who also offer emergency interpreting for hosts and guests.
+
+If your guests from Ukraine are having problems accessing Universal Credit, [we can advise](/contact.html). We can also offer free Vodafine SIM cards, and those in need (for online banking, continuing studies, etc) can apply to us for reconditioned Chromebooks/laptops.
