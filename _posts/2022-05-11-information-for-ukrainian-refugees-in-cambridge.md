@@ -18,5 +18,7 @@ Several organisations are running English classes for Ukrainian refugees in Camb
 - [Cambridgeshire Skills](https://www.cambsals.co.uk/)
 - [Workers’ Educational Association](https://www.wea.org.uk/eastern)
 
+We can also help with one-to-one tutoring, so please [contact us](/contact.html) if you need help with this.
+
 ## Other resources
 - [Cambridge 4 Ukraine](https://www.cambridge4ukraine.uk/events) host regular events, including socials every Saturday at Downing Place.

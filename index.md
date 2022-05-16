@@ -4,7 +4,7 @@ layout: home
 
 *CRRC is shocked and saddened at events in Ukraine. We have collated [some information on hosting Ukrainian refugees here]({% post_url 2022-04-14-homes-for-ukraine-scheme-notes %}) and [have a page of information and resources]({% post_url 2022-05-11-information-for-ukrainian-refugees-in-cambridge %}) for Ukrainian refugees in Cambridge, their hosts and those who want to help.*
 
-*The Nationality and Borders Bill will criminalise Ukrainians attempting to reach friends and family in the UK by irregular means, just as it will Afghans. [Write to your MP](https://www.writetothem.com/) urging them to fight this Anti-Refugee Bill.*
+*The UK Government proposes to send asylum seekers to Rwanda instead of following its obligations under international law. [Write to your MP](https://www.writetothem.com/) urging them to fight this illegal and immoral course of action.*
 
 Cambridge has always been ready and willing to welcome refugees in times of crisis, and there have rarely been more people fleeing persecution and war. Offering sanctuary is a proud Cambridge tradition. We’re good at it, we always have been.
 
