@@ -8,6 +8,8 @@ type: news
 
 If you want to help Ukrainian refugees, please donate to aid groups such as [Hope and Aid Direct](https://www.hopeandaiddirect.org.uk/Appeal/ukraine) or the [International Red Cross](https://donate.redcross.org.uk/appeal/ukraine-crisis-appeal). Please do not collect material aid unless you have personal connections with a group in the region which has requested this. Please also [sign the petition asking the UK Government to assist Ukrainian refugees](https://www.change.org/p/borisjohnson-and-ukhomeoffice-help-ukrainian-refugees-helpukrainianrefugees).
 
+We have a [tech-request form here](https://docs.google.com/forms/d/e/1FAIpQLSdAnWh8oTQzpmBWGxdUKOWrCF6_GBRjysPkTksFIhaipSjXgA/viewform) for refugees or their hosts to complete to request laptops, phones or SIM cards.
+
 If you want to know more about the Homes for Ukraine scheme and how you can help, we have [some information on hosting Ukrainian refugees here]({% post_url 2022-04-14-homes-for-ukraine-scheme-notes %}).
 
 ## English classes

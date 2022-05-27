@@ -2,7 +2,7 @@
 layout: home
 ---
 
-*CRRC is shocked and saddened at events in Ukraine. We have collated [some information on hosting Ukrainian refugees here]({% post_url 2022-04-14-homes-for-ukraine-scheme-notes %}) and [have a page of information and resources]({% post_url 2022-05-11-information-for-ukrainian-refugees-in-cambridge %}) for Ukrainian refugees in Cambridge, their hosts and those who want to help.*
+*CRRC is shocked and saddened at events in Ukraine. We have collated [some information on hosting Ukrainian refugees here]({% post_url 2022-04-14-homes-for-ukraine-scheme-notes %}) and [have a page of information and resources]({% post_url 2022-05-11-information-for-ukrainian-refugees-in-cambridge %}) for Ukrainian refugees in Cambridge, their hosts and those who want to help. The City and District Councils expect around 1500 Ukrainian refugees, and almost all need phones and SIM cards, and many also laptops. Please support [the Laptops4Learning campaign]({% post_url 2022-05-16-laptops4learning %}).*
 
 *The UK Government proposes to send asylum seekers to Rwanda instead of following its obligations under international law. [Write to your MP](https://www.writetothem.com/) urging them to fight this illegal and immoral course of action.*
 
