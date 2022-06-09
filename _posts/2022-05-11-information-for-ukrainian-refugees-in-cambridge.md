@@ -12,15 +12,21 @@ We have a [tech-request form here](https://docs.google.com/forms/d/e/1FAIpQLSdAn
 
 If you want to know more about the Homes for Ukraine scheme and how you can help, we have [some information on hosting Ukrainian refugees here]({% post_url 2022-04-14-homes-for-ukraine-scheme-notes %}).
 
+If you need access to the Cambridge Foodbank, we can issue vouchers if you get in touch with us. Similarly, we can help with contact for Cambridge Re-Matching if you need it.
+
 ## English classes
 
 Several organisations are running English classes for Ukrainian refugees in Cambridge:
 
 - [Cambridge Regional College](https://www.camre.ac.uk/course/esol-study-programme/MP1ESOLST/)
 - [Cambridgeshire Skills](https://www.cambsals.co.uk/)
+- [OpenLearn, from the Open University](https://www.open.edu/openlearn/supporting-ukrainians) (not specifically Cambridge-based)
+- [The Cambridge Russian-Speaking Society](http://www.camruss.com/en/camruss-4-ukraine-useful-information/)
 - [Workers’ Educational Association](https://www.wea.org.uk/eastern)
 
 We can also help with one-to-one tutoring, so please [contact us](/contact.html) if you need help with this.
 
 ## Other resources
 - [Cambridge 4 Ukraine](https://www.cambridge4ukraine.uk/events) host regular events, including socials every Saturday at Downing Place.
+
+**Updated 9 June 2022 to add more sources for English classes**

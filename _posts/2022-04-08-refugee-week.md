@@ -4,7 +4,7 @@ title:  Refugee Week 2022 early notice
 date:   2022-04-08
 category: newslist
 type: event
-event_date: 2021-06-17
+event_date: 2022-06-17
 event_end_date:
 ---
 
