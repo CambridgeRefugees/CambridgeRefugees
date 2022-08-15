@@ -27,4 +27,6 @@ Follow [@CamRefugees](https://twitter.com/camrefugees) and join [our Facebook gr
 
 ## Our structure
 
-![The responsibilities of the Board of Trustees and the five committees](/images/board-of-trustees.svg)
+[![The responsibilities of the Board of Trustees and the five committees](/images/board-of-trustees-sml.png)](/images/board-of-trustees.png)
+
+[(Click to see a larger version of this image.)](/images/board-of-trustees.png)
