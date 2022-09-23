@@ -36,7 +36,7 @@ CRRC organises social events for our beneficiaries and CRRC’s volunteers. Thes
 ### Language tuition, translation and befriending services
 CRRC facilitates and provides language tuition and translation services to refugees.  CRRC offers individual sessions for adults and children, and, during school holidays, a popular programme for the whole family.  We can also help with practical support and expertise.
 
-If you are interested in receiving language tuition, require translation services, or would like any other form of support, please contact us.
+If you are interested in receiving language tuition, require translation services, or would like any other form of support, please [contact us](/contact.html).
 
 ### Household needs
 
