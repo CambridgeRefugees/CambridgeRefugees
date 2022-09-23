@@ -30,3 +30,53 @@ Follow [@CamRefugees](https://twitter.com/camrefugees) and join [our Facebook gr
 [![The responsibilities of the Board of Trustees and the five committees](/images/board-of-trustees-sml.png)](/images/board-of-trustees.png)
 
 [(Click to see a larger version of this image.)](/images/board-of-trustees.png)
+
+### Responsibilities
+CRRC Board of Trustees
+- Governance
+- Strategy
+- Compliance
+- Legal & ethical responsibilities
+- Policies & Procedures
+- Donor Stewardship
+- Financial oversight
+- Safeguarding (SG officer: Ann)
+- Charity Commission contact & reporting (Heidi) 
+
+#### Operational management
+Interpretation & translation: Samir
+(*For beneficiaries & volunteers, for & in events, for information material*)
+
+Admin, systems  & IT: Dan, Faye, Beth
+(*Administration & record keeping, CRRC systems & IT support and advice*)
+
+Partnership network: Adrian,  Ann, Catharine
+(*Sharing & advising, collaborating, advocating*)
+
+Budgets & Finance: Robin, Ann
+(*Accounts and financial reports, financial returns*)
+
+Volunteer support: Amy, Faye, Beth
+(*Recruit, allocate, DBS checks, induct, train, evaluate, learn, support, volunteer socials*)
+
+CRRC learning & evolving: Ann, Heidi, Sue
+(*Input from beneficiaries & volunteers, trustees reviews, assess, revise and adopt practices*)
+
+#### Direct action areas
+Family support: Adrian, Amy
+(*Direct support, donations, welcome packs, home & garden, health & welfare, IT support, emergency hardship grants*)
+
+Educational support: Sue, Monica
+(*English language support for adults (classroom & one to one), education support for children (one-to-one, school liaison, Arabic lessons, other educational needs)*)
+
+Employment & mobility: Ann, Flic, Amanda
+(*Job capabilities development, job opportunities, partnership management, support with driving license, bike project*)
+
+Culture & activities: Sue, Maggie, Jan
+(*Events programme development, school holiday activities, monthly socials, venue, catering & transport organisation*)
+
+NVPR, advice: Adrian
+(*Right to remain advice, family member status, advocacy, asylum to citizen advice referral*)
+
+Campaigns, communication & outreach: Catharine
+(*Quarterly newsletter, website, social media, campaigns, grants applications, talks & presentations, integration within CRRC*)
