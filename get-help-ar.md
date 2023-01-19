@@ -19,7 +19,7 @@ description:
 إذا كنت لاجئا ومهتم في التقدم بطلب للحصول على أي دعم من الحملة   
 أو في الانضمام إلى أي نشاط للحملة
 
-، يرجى التواصل عبر البريد الإلكتروني: [contactcrrc@gmail.com](mailto:contactcrrc@gmail.com)
+، يرجى التواصل عبر البريد الإلكتروني: [info@cambridgerefugees.org](mailto:info@cambridgerefugees.org)
 
 تشمل أنشطتنا توفير مجموعة من الدعم العملي للاجئين و الاتصال مع أصحاب المصالح المحلية
 
