@@ -28,5 +28,3 @@ We can also help with one-to-one tutoring, so please [contact us](/contact.html)
 
 ## Other resources
 - [Cambridge 4 Ukraine](https://www.cambridge4ukraine.uk/events) host regular events, including socials every Saturday at Downing Place.
-
-**Updated 9 June 2022 to add more sources for English classes**
