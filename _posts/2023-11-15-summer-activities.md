@@ -14,4 +14,5 @@ Summer saw outings to Shepreth Wildlife Park and a picnic on Jesus Green. The ou
 
 During the heatwave in early September, a dozen families and six volunteers ventured out in the 30C temperatures to have a picnic on Jesus Green. The children enjoyed the playground, some football and some tennis with the volunteers, using rackets and balls donated by Cambridge LTC. Families were able to chat and share food in the shade at the back of the Lido.
 
-{: .clearfix }
+&nbsp;
+{: .clearfix}
