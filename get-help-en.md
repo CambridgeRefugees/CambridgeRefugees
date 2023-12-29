@@ -7,7 +7,7 @@ hero-alt:
 hero-title: Get help
 ---
 
-[This page is also available in Arabic](/get-help-ar.html).
+[This page is also available in Pashto](/get-help-ar.html).
 
 ## About us
 
@@ -68,4 +68,4 @@ CRRC informs faith groups, community groups, politicians and other organisations
 
 CRRC organises and co-organises fundraising events.
 
-If you are a refugee and interested in applying for any CRRC support or in joining any CRRC activity, please get in touch [via email](mailto:contactcrrc@gmail.com). We look forward to hearing from you!
+If you are a refugee and interested in applying for any CRRC support or in joining any CRRC activity, please get in touch [via email](mailto:info@cambridgerefugees.org). We look forward to hearing from you!
