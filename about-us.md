@@ -18,8 +18,8 @@ We provide a wide range of practical support to resettled refugee families and w
 - providing one-to-one help with homework for school-age children;
 - running English for Speakers of Other Languages classes with childcare for the benefit of mothers with young children;
 - organising programmes of outings and activities during the school holidays;
-- partnering with individuals and groups able to assist with Arabic translation and learning;
-- getting the families together once a month for a social event where they can meet each other and our volunteers;
+- partnering with individuals and groups able to assist with translation and educational opportunities;
+- getting the families together twice a term for a social event where they can meet each other and our volunteers;
 - arranging counselling and advice for beneficiaries;
 - giving talks and presentations about refugee issues, particularly at local schools.
 
@@ -27,9 +27,9 @@ Follow [@CamRefugees](https://twitter.com/camrefugees) and join [our Facebook gr
 
 ## Our structure
 
-[![The responsibilities of the Board of Trustees and the five committees. Full details are in text below this image.](/images/board-of-trustees-sml.png)](/images/board-of-trustees.png)
+[![The responsibilities of the Board of Trustees and the five committees. Full details are in text below this image.](/images/board-of-trustees-sml.jpg)](/images/board-of-trustees.jpg)
 
-[(Click to see a larger version of this image.)](/images/board-of-trustees.png)
+[(Click to see a larger version of this image.)](/images/board-of-trustees.jpg)
 
 ### Responsibilities
 CRRC Board of Trustees
@@ -45,7 +45,7 @@ CRRC Board of Trustees
 
 #### Operational management
 Interpretation & translation: Samir
-(*For beneficiaries & volunteers, for & in events, for information material*)
+(*For beneficiaries & volunteers, for & during events, for information material*)
 
 Admin, systems  & IT: Dan, Faye, Beth
 (*Administration & record keeping, CRRC systems & IT support and advice*)
@@ -53,17 +53,17 @@ Admin, systems  & IT: Dan, Faye, Beth
 Partnership network: Adrian,  Ann, Catharine
 (*Sharing & advising, collaborating, advocating*)
 
-Budgets & Finance: Robin, Ann
+Budgets & Finance: Sarah, Robin
 (*Accounts and financial reports, financial returns*)
 
-Volunteer support: Amy, Faye, Beth
+Volunteer support: Faye, Beth
 (*Recruit, allocate, DBS checks, induct, train, evaluate, learn, support, volunteer socials*)
 
 CRRC learning & evolving: Ann, Heidi, Sue
 (*Input from beneficiaries & volunteers, trustees reviews, assess, revise and adopt practices*)
 
 #### Direct action areas
-Family support: Adrian, Amy
+Family support: Adrian, Catharine
 (*Direct support, donations, welcome packs, home & garden, health & welfare, IT support, emergency hardship grants*)
 
 Educational support: Sue, Monica
@@ -72,7 +72,7 @@ Educational support: Sue, Monica
 Employment & mobility: Ann, Flic, Amanda
 (*Job capabilities development, job opportunities, partnership management, support with driving license, bike project*)
 
-Culture & activities: Sue, Maggie, Jan
+Culture & activities: Sue, Sharon, Jan
 (*Events programme development, school holiday activities, monthly socials, venue, catering & transport organisation*)
 
 NVPR, advice: Adrian
