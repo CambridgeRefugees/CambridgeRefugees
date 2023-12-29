@@ -31,7 +31,7 @@ CRRC works closely with the County Councils, City Councils, local charities, and
 
 ### Social events
 
-CRRC organises social events for our beneficiaries and CRRC’s volunteers. These social events are per invitation only. Please get in touch, if you would like to be invited to a CRRC social.
+CRRC organises social events for our beneficiaries and CRRC’s volunteers. These social events are by invitation only. Please get in touch, if you would like to be invited to a CRRC social.
 
 ### Language tuition, translation and befriending services
 CRRC facilitates and provides language tuition and translation services to refugees.  CRRC offers individual sessions for adults and children, and, during school holidays, a popular programme for the whole family.  We can also help with practical support and expertise.
