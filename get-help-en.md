@@ -7,7 +7,7 @@ hero-alt:
 hero-title: Get help
 ---
 
-[This page is also available in Pashto](/get-help-ar.html).
+[This page is also available in Arabic](/get-help-ar.html).
 
 ## About us
 

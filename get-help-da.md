@@ -1,6 +1,6 @@
 ---
 layout: default-arabic
-title: مساعدة
+title: مساعدت بدست بیاورید
 description:
 ---
 
