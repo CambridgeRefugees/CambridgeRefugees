@@ -7,7 +7,7 @@ hero-alt: Generic background image of a hand drawing with crayons
 hero-title: About us
 ---
 
-CRRC is a registered charity for the purpose of supporting the resettlement of refugees in the Cambridge area. We are a volunteer-run group of Cambridgeshire residents which was formed in 2015 at the height of the current migrant crisis, when the media was filled with images of the misery of the camps and the tragedy of failed attempts to reach them. We wanted to help by welcoming refugees into our community. Originally focussed on fundraising and lobbying local government, we were helped to organise by [Citizens UK](http://www.refugees-welcome.org.uk) and became a registered charity in 2017.
+CRRC is a [registered charity](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5095939) for the purpose of supporting the resettlement of refugees in the Cambridge area. We are a volunteer-run group of Cambridgeshire residents which was formed in 2015 at the height of the current migrant crisis, when the media was filled with images of the misery of the camps and the tragedy of failed attempts to reach them. We wanted to help by welcoming refugees into our community. Originally focused on fundraising and lobbying local government, we were helped to organise by [Citizens UK](https://www.refugees-welcome.org.uk) and became a registered charity in 2017.
 
 We provide a wide range of practical support to resettled refugee families and work closely with the Cambridge City and Cambridgeshire County Councils and other local stakeholders. We advocate on behalf of our beneficiaries for assistance with housing, healthcare and education. This means:
 
