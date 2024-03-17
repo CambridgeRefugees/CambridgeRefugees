@@ -6,7 +6,7 @@ category: newslist
 type: news
 ---
 
-![Three people happily holding laptops.](/images/2024-01-26-education-and-learning-1.jpg){: .float-right }
+![Three people happily holding laptops.](/images/2023-11-26-education-and-learning-1.jpg){: .float-right }
 
 CRRC's programme of supplying refurbished IT devices to refugees continues  and is open to all new arrivals. This family from Sudan were very pleased to receive laptops just before Christmas. We have also recently given laptops to an Afghan family whose older children are yet to be offered school places.
 
